@@ -1,0 +1,130 @@
+CRITICAL - 2026-09-18 13:16:48 --> Error: Class "App\Models\CustomerModel" not found
+[Method: GET, Route: customers]
+in APPPATH\Controllers\customers.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:16:51 --> Error: Class "App\Models\CustomerModel" not found
+[Method: GET, Route: customers]
+in APPPATH\Controllers\customers.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:16:57 --> Error: Class "App\Models\CustomerModel" not found
+[Method: GET, Route: customers]
+in APPPATH\Controllers\customers.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:21:44 --> Error: Class "App\Models\CustomerModel" not found
+[Method: GET, Route: customers]
+in APPPATH\Controllers\customers.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:21:51 --> Error: Class "App\Models\CustomerModel" not found
+[Method: GET, Route: customers]
+in APPPATH\Controllers\customers.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:24:14 --> Error: Class "App\Models\CustomerModel" not found
+[Method: GET, Route: customers]
+in APPPATH\Controllers\customers.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Customers->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customers))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:25:36 --> Error: Class "App\Models\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:25:39 --> Error: Class "App\Models\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:25:53 --> Error: Class "App\Models\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:26:17 --> Error: Class "App\Controllers\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:26:19 --> Error: Class "App\Controllers\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:26:37 --> Error: Class "App\Controllers\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
+CRITICAL - 2026-09-18 13:27:26 --> Error: Class "App\Controllers\User_model" not found
+[Method: GET, Route: users]
+in APPPATH\Controllers\users.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\TA1_IT0049\\pos-system\\public\\index.php')
